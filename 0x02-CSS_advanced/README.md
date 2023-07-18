@@ -20,7 +20,7 @@
 
 ## Files:card_file_box:
 
-### [0. Let's get some images!](./0-responsive_device.png)
+### [0. Let's get some images!](./image)
 
 
 
