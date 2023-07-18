@@ -20,7 +20,7 @@
 
 ## Files:card_file_box:
 
-### [0. Let's get some images!](./image)
+### [0. Let's get some images!](./images)
 
 
 
